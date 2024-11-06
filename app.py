@@ -117,7 +117,7 @@ else:
 
     
     student_data = {
-        "shashi": {"parent_phone": "+91add the number you want to send the message"},   ## you should make the changes here
+        "shashi": {"parent_phone": "+91add the number you want to send the message"},   ## you should make the changes here  you can add or remove the name 
         "keerthan": {"parent_phone": "+91add the number you want to send the message"}, ## you should make the changes here##
         "amruth": {"parent_phone": "+91add the number you want to send the message"},## you should make the changes here
         "prajwal": {"parent_phone": "+91add the number you want to send the message"},## you should make the changes here
