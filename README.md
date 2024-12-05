@@ -1,4 +1,4 @@
- 
+# Attendance Pro 
 * Before you start the project you should install :
   pip install opencv-python
   pip install scikit-learn
